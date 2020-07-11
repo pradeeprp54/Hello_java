@@ -6,8 +6,7 @@ class Helloworld {
         System.out.println("Running on code commit in the code_solved");
         System.out.println("resolved");
         System.out.println("Yeah!!!!!!!");
-        System.out.println("resolved!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
-        System.out.println("resolved!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        
         
     }
 }
